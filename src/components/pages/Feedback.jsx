@@ -4,14 +4,14 @@ import Content from "../layout/Content"
 import Footer from "../layout/Footer"
 
 
-const Contatos = () => {
+const Feedback = () => {
   return (
     <>
        <Header />
        <div id="main">
           <Sidebar />
           <Content>
-            <h1>Contatos</h1>
+            <h1>Feedbacks</h1>
           </Content>
        </div>
        <Footer />
@@ -19,4 +19,4 @@ const Contatos = () => {
   )
 }
 
-export default Contatos
+export default Feedback

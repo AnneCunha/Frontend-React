@@ -2,7 +2,7 @@ import "./Sidebar.css"
 
 const Sidebar = () => {
   return (
-    <div id="sidebar">Sidebar</div>
+    <div id="sidebar"><center>Sidebar</center></div>
   )
 }
 

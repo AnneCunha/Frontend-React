@@ -3,3 +3,9 @@
     height: 500px;
     background: #EEE;
 }
+img {
+    border: 5px solid #EEE;
+    border-radius: 10px;
+    width: 600px;
+    height: 200px;
+}

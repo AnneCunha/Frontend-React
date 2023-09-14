@@ -13,8 +13,8 @@ const Header = () => {
                 <li><NavLink to="/QuemSomos">Quem Somos</NavLink></li>
                 <li><NavLink to="/Contatos">Contatos</NavLink></li>
                 <li><NavLink to="/Feedback">Feedback</NavLink></li>
-                <li><Button variant={primary}>login</Button></li>
-                <li><Button variant={secondary}>cadastrar</Button></li>
+                <li><Button variant="primary">Login</Button></li>
+                <li><Button variant="secondary">Cadastrar</Button></li>
 
             </ul>    
         </nav>

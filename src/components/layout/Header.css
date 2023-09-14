@@ -33,4 +33,7 @@ header nav ul li a.active{
     padding: 4px 15px;
     transition: 1s ease-in-out;
     outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }

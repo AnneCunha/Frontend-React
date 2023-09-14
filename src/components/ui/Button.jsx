@@ -1,9 +1,8 @@
 import './Button.css'
 
 const Button = ({children, variant}) => {
-    console.log('Dados: ', variant)
     return (
-        <button className="variant">{children}</button>
+        <button className={variant}>{children}</button>
     )
 }
 

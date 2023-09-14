@@ -1,9 +1,25 @@
 .primary{
-    background-color: black;
+    background-color: #000;
     color: azure;
-    border-radius: 20px;
+    border-radius: 4px;
+    padding: 2px 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    border-color: rgb(240, 198, 60);
+    border-bottom: none;
+    border-right: none;
+    cursor: pointer;
 }
 .secondary{
-    background-color: yellow;
-    border-radius: 20px;
+    background-color: #000;
+    border-radius: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    cursor: pointer;
+    border-color: rgb(240, 198, 60);
+    border-bottom: none;
+    border-right: none;
+    padding: 2px 15px;
+    color: rgb(240, 198, 60);
+
 }
